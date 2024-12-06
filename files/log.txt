@@ -1,0 +1,12 @@
+
+
+1. turn
+1. character moved UP to: 13 x 6
+
+
+2. turn
+1. character moved UP to: 13 x 5
+
+
+3. turn
+1. character moved LEFT to: 12 x 5

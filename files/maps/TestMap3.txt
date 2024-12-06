@@ -1,0 +1,82 @@
+30x20
+RRRRRHHHHHHHHHHHHHHHHHHHHRRRRR
+RRRRrhHHHHHHHHHHHHHHHHHHhrRRRR
+RRRRrhHHHHHHHHHHHHHHHHHHhrRRRR
+RrrRRHHHHHHHHHHHHHHHHHHHRRrrRR
+HhhHHHHHHHHHHHHHHHHHHHHHHHhhHH
+HhhHHHHHHHHHHHHHHHHHHHHHHHHHHH
+KkkKHHHHHHHHHHHHHHHHHHHHHHHHHH
+KKKKHHHHHHHHHHHHHHHHRRRRHHHHHH
+KKKKHHHHHHHHHHHHHHHhrRRRHHHHHH
+KKkkhHHHHHHHHHHHHHHHRRRRHHHHHH
+HHhhHHHHHHHHHHHHHHHHRrrRHHHHHH
+HHHHHHHHHHHHHHHHHHHHHhhHHHHHHH
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHhhHHHHHHHHHHHH
+HHHHHHHHHHHHHHHRrrRRHhHHHHHHHH
+HHhhhHHHHHHHHHHhrRRRRrhHHHHHHH
+RRrrrRHHHHHHHHHhrRRRRrhHHHHHHH
+RRRRRRHHHHHHHHHRrrRRHhHHHHHHHH
+RRRRRRHHHHHHHHHHhhHHHHHHHHHHHH
+RRRRRRHHHHHHHHHHHHHHHHHHHHHHHH
+1	1	15	43
+3	9
+30	20
+19	4	70	ice-cream
+23	8	5	honey
+4	5	0	spoiled_pie
+7	20	30	bread
+3	14	66	fried-chicken
+10	9	16	fries
+24	6	100	cucumber
+25	4	70	corn-dog
+1	11	5	pizza
+24	15	23	snack
+17	9	30	bread
+16	15	66	cucumber
+15	13	16	chicken-bucket
+27	18	10	cucumber
+4	20	50	watermelon
+4	7	false	trash_can
+10	5	false	hat
+1	1	false	gift
+28	1	true	hair-comb
+13	1	false	blender
+2	3	false	barrel
+3	3	false	barrel
+2	11	false	barrel
+3	13	false	barrel
+4	13	false	barrel
+4	14	false	barrel
+2	19	false	barrel
+4	18	false	barrel
+7	18	false	barrel
+8	18	false	barrel
+9	8	false	barrel
+9	9	false	barrel
+9	10	false	barrel
+12	1	false	barrel
+12	2	false	barrel
+12	3	false	barrel
+13	3	false	barrel
+14	3	false	barrel
+18	15	false	barrel
+25	15	false	barrel
+24	14	false	barrel
+24	16	false	barrel
+27	17	false	barrel
+26	17	false	barrel
+26	18	false	barrel
+28	19	false	barrel
+16	9	false	barrel
+17	10	false	barrel
+17	8	false	barrel
+22	10	false	barrel
+27	1	false	barrel
+28	3	false	barrel
+16	13	false	barrel
+16	14	false	barrel
+25	7	false	barrel
+18	3	false	barrel
+19	3	false	barrel
+18	4	false	barrel

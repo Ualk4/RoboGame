@@ -1,0 +1,27 @@
+20x10
+KKKHHHHHRRRRHHHHRRRR
+KKkhHHHHRRRRHHHHRRRR
+KkKHHHHHRRRRHHHHRRRR
+HhHHHHHHRrrRHHHhrrRR
+HHHHHHHHHhhHHHHHhhHH
+HHHHHHHHHHHHHHhhHHHH
+RRRRRHHHHhHHHRrrRRRR
+RRRRrhHHRrRHHRRRRRRR
+RRRRrhHHRRRHHHRRRRRR
+RRRRRHHHRRRHHHRRRRRR
+1	0	6	8
+2	2
+9	1	70	burger
+20	10	5	cookie
+1	10	100	honey
+10	9	0	spoiled_watermelon
+14	10	30	bread
+18	2	80	cucumber
+9	2	false	barrel
+6	7	false	barrel
+13	8	false	barrel
+19	3	false	barrel
+18	3	false	barrel
+17	3	false	barrel
+2	10	false	barrel
+4	1	false	trash_can
